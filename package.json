@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "cubiclauncher",
   "version": "2.0.5",
-  "productName": "Helios Launcher",
+  "productName": "Cubic Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), LunaStev (https://github.com/LUnaStev/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/LunaStev/CubicLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/LunaStev/CubicLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/LunaStev/LunaStevLauncher.git"
   }
 }
